@@ -3,10 +3,10 @@ just sh*t domain name
 
 A
 -page 1-
-a.com
-aback.com
-abacus.com
-abandon.com
+www.a.com
+www.aback.com
+www.abacus.com
+www.abandon.com
 abashed.com
 abate.com
 abattoir.com
