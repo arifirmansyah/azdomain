@@ -1,5 +1,5 @@
 # azdomain
-just sh*t domain name  
+just lists sh*t domain name  
   
 A  
 -page 1-  
