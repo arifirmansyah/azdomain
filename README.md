@@ -1,0 +1,2 @@
+# azdomain
+just sh*t
